@@ -1,0 +1,21 @@
+{
+  "name": "qiskit-fallfest-site",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@radix-ui/react-slot": "^1.0.2",
+    "autoprefixer": "^10.4.16",
+    "clsx": "^2.1.1",
+    "framer-motion": "^10.18.0",
+    "lucide-react": "^0.284.0",
+    "next": "latest",
+    "postcss": "^8.4.32",
+    "react": "latest",
+    "react-dom": "latest",
+    "tailwindcss": "^3.4.1"
+  }
+}
